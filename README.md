@@ -10,3 +10,6 @@ Workflow :
 4. Ulangi langkah 2 dan 3 sampai nilai dari titik centroid tidak lagi berubah
 
 Rumus : [Rumus](https://github.com/faisalsyarief/Excel-K-Means-Algorithm/blob/master/K-Means.xlsx)
+
+-----
+[Channel Youtube](https://www.youtube.com/channel/UC3giPltx3oAflwwqs2-YYaQ)
